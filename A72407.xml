@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I smell a rat To the tune of, Vpon a summer tide. Or, The seminary priest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72407</idno>
+            <idno type="STC">STC 14045.5</idno>
+            <idno type="STC">ESTC S124543</idno>
+            <idno type="EEBO-CITATION">99900276</idno>
+            <idno type="PROQUEST">99900276</idno>
+            <idno type="VID">150643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1962:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>I smell a rat To the tune of, Vpon a summer tide. Or, The seminary priest.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by W. Jones] for Henry Gossen,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[c. 1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and date of publication from STC.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150643:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>I Smell a Rat.</head>
+            <opener>To the tune of, Vpon a Summer tide. <hi>OR,</hi> The Seminary Prieſt.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I</hi> Traueld farre to finde</l>
+                  <l>where honeſty abides,</l>
+                  <l>And found in England more</l>
+                  <l>then all the world beſides;</l>
+                  <l>But where true vertue growes,</l>
+                  <l>vice quickly ruines that:</l>
+                  <l>A poore man muſt not ſpeak,</l>
+                  <lg type="refrain">
+                     <l>although he <hi>Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When Iuſtice hath her ſight,</l>
+                  <l>ſhée's beautifull in ſhow:</l>
+                  <l>But when ſhe Maſks her face,</l>
+                  <l>how vild ſhe ſoone doth grow;</l>
+                  <l>I doe perceiue the cauſe,</l>
+                  <l>but dare not ſpeake of that:</l>
+                  <l>Ile not offend the Lawes,</l>
+                  <lg type="refrain">
+                     <l>but yet <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When I ſée welthy men,</l>
+                  <l>by worldly cauſes riſe:</l>
+                  <l>I count them happy here,</l>
+                  <l>and truely worldly wiſe;</l>
+                  <l>But Folly oft makes leane,</l>
+                  <l>what Wit hath long kept fat:</l>
+                  <l>Who knowes how rich men fall?</l>
+                  <lg type="refrain">
+                     <l>in troth <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Some gathers in their rents,</l>
+                  <l>and hordes the coine with care:</l>
+                  <l>Stretching their credits great,</l>
+                  <l>for money or for ware:</l>
+                  <l>When ſuch great men do breake,</l>
+                  <l>what is the cauſe of that?</l>
+                  <l>In troth I dare not ſpeake,</l>
+                  <lg type="refrain">
+                     <l>and yet <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To ſee a Courtier kinde,</l>
+                  <l>is common euery hower,</l>
+                  <l>To Widdow, Wife, or Maide,</l>
+                  <l>or any in his power:</l>
+                  <l>The Huſband's welcome to,</l>
+                  <l>but whats the cauſe of that?</l>
+                  <l>I doe not iuſtly know,</l>
+                  <lg type="refrain">
+                     <l>but yet <hi>I ſmell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When luber marries wealth,</l>
+                  <l>how ioy full are the twaine,</l>
+                  <l>On both ſides wealths increaſe</l>
+                  <l>comes in with ill got gaine:</l>
+                  <l>This wealth co<g ref="char:cmbAbbrStroke">̄</g>mands their minds,</l>
+                  <l>they liue like Dog and Cat;</l>
+                  <l>What ſhould the occaſion be?</l>
+                  <lg type="refrain">
+                     <l>in faith <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When rates of all things riſe,</l>
+                  <l>within a plentious yeare:</l>
+                  <l>What ſhould the occaſion be,</l>
+                  <l>that euery thing's ſo deare;</l>
+                  <l>Some cenſure rich mens faults,</l>
+                  <l>and ſome ſay this and that:</l>
+                  <l>Let al ſay what they will,</l>
+                  <lg type="refrain">
+                     <l>for faith <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When Age doth marry Youth,</l>
+                  <l>how louingly they liue:</l>
+                  <l>The want of youthfull bloud,</l>
+                  <l>this tender Wife doth grieue:</l>
+                  <l>The old man iealous growes,</l>
+                  <l>occaſion oft bids that:</l>
+                  <l>When wealth and beauty méete,</l>
+                  <lg type="refrain">
+                     <l>in faith <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150643:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->
+               <head>The ſecond Part,</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>VVHerefore doth women paint</l>
+                  <l>or youngmen pruine their haire?</l>
+                  <l>It may be tis to make,</l>
+                  <l>this earthly carkaſe faire;</l>
+                  <l>Yet there are cauſes great,</l>
+                  <l>are ten times worſe then that:</l>
+                  <l>Tis beauty tempes the eye,</l>
+                  <lg type="refrain">
+                     <l>in faith <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When Strumpets ſtriue by Art,</l>
+                  <l>and fond inticing ſtraines,</l>
+                  <l>To bring poore youth to ſpend</l>
+                  <l>both ſubſtance, ſtrength, &amp; vaines:</l>
+                  <l>What ſicknes followes luſt?</l>
+                  <l>what pouerty brings that?</l>
+                  <l>I haue no cauſe to know,</l>
+                  <lg type="refrain">
+                     <l>but yet <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When guls and gooſcaps find,</l>
+                  <l>the vildnes of expence:</l>
+                  <l>How penitent their minde,</l>
+                  <l>will grow for that offence:</l>
+                  <l>But folly to ſuch men,</l>
+                  <l>doth ſhew them what is what:</l>
+                  <l>I ſpeake not all I know,</l>
+                  <lg type="refrain">
+                     <l>but ſtill <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To ſée a Whore fall ſicke,</l>
+                  <l>why tis a common thing:</l>
+                  <l>A Hakney ſoone will tire,</l>
+                  <l>doth too much burthen bring:</l>
+                  <l>Beſide, an inward griefe</l>
+                  <l>may be the cauſe of that,</l>
+                  <l>Let Surgions lend releefe:</l>
+                  <lg type="refrain">
+                     <l>for faith <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When Seigneur Roman <hi>T,</hi>
+                  </l>
+                  <l>did goe vpright and ſtraight:</l>
+                  <l>He crumples in the hames,</l>
+                  <l>ſo great's his bodies waight:</l>
+                  <l>Nay ſtradles twice as wide,</l>
+                  <l>what is the cauſe of that?</l>
+                  <l>Theres ſomething barres his ſtride</l>
+                  <lg type="refrain">
+                     <l>in troth <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Why growes your Bawds ſo big,</l>
+                  <l>when Panders proue ſo leane:</l>
+                  <l>When they were young they ſweld</l>
+                  <l>and nere will fall againe:</l>
+                  <l>The Panders ſwift on foote,</l>
+                  <l>and ſo kéepes downe his fat,</l>
+                  <l>By bringing ſome vnto't:</l>
+                  <lg type="refrain">
+                     <l>in troth <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When Officers let ſlip</l>
+                  <l>to puniſh ſuch as theſe:</l>
+                  <l>Pray where doth Iuſtice ſit,</l>
+                  <l>or railes ſhe when ſhe pleaſe:</l>
+                  <l>It may be ſhe is brib'd,</l>
+                  <l>and ſo kept blind by that:</l>
+                  <l>Elſe none of theſe could thriue,</l>
+                  <lg type="refrain">
+                     <l>in troth <hi>I Smell a Rat.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When ſinne ſtriues to ſurceaſe,</l>
+                  <l>and folly flies away:</l>
+                  <l>Where loue and laſting peace,</l>
+                  <l>will make a glorious day:</l>
+                  <l>When England harboures none,</l>
+                  <l>that beares the name of Whore,</l>
+                  <l>The <hi>Rat</hi> will run away,</l>
+                  <l>and <hi>I</hi> ſhall <hi>Smell</hi> no more.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for Henry Goſſen</p>
+         </div>
+      </back>
+   </text>
+</TEI>
